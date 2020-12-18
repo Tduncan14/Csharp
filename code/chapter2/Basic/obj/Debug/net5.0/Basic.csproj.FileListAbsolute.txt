@@ -1,0 +1,16 @@
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.csprojAssemblyReference.cache
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.AssemblyInfoInputs.cache
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.AssemblyInfo.cs
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.csproj.CoreCompileInputs.cache
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\bin\Debug\net5.0\Basic.exe
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\bin\Debug\net5.0\Basic.deps.json
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\bin\Debug\net5.0\Basic.runtimeconfig.json
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\bin\Debug\net5.0\Basic.runtimeconfig.dev.json
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\bin\Debug\net5.0\Basic.dll
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\bin\Debug\net5.0\ref\Basic.dll
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\bin\Debug\net5.0\Basic.pdb
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.dll
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\ref\Basic.dll
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.pdb
+C:\Users\nbatr\Desktop\Csharp\code\chapter2\Basic\obj\Debug\net5.0\Basic.genruntimeconfig.cache
